@@ -1,0 +1,11 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/PythonSettings.json
+/.vs
+/testHolst/testHolst.slnx
+/testHolst.slnx
+/.gitignore
+/testHolst/.vs
+/testHolst.rar
