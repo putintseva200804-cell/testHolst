@@ -22,11 +22,28 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Final_Holst\Final_Holst\Final_Holst.py" />
     <Compile Include="testHolst.py" />
     <Compile Include="_1Holst.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.13" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Final_Holst\" />
+    <Folder Include="Final_Holst\.vs\" />
+    <Folder Include="Final_Holst\.vs\Final_Holst.slnx\" />
+    <Folder Include="Final_Holst\.vs\Final_Holst.slnx\FileContentIndex\" />
+    <Folder Include="Final_Holst\.vs\Final_Holst.slnx\v18\" />
+    <Folder Include="Final_Holst\Final_Holst\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Final_Holst\.vs\Final_Holst.slnx\FileContentIndex\adc66757-657d-487e-8449-80c56df5a01f.vsidx" />
+    <Content Include="Final_Holst\.vs\Final_Holst.slnx\v18\.suo" />
+    <Content Include="Final_Holst\.vs\Final_Holst.slnx\v18\DocumentLayout.backup.json" />
+    <Content Include="Final_Holst\.vs\Final_Holst.slnx\v18\DocumentLayout.json" />
+    <Content Include="Final_Holst\Final_Holst.slnx" />
+    <Content Include="Final_Holst\Final_Holst\Final_Holst.pyproj" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
